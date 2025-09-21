@@ -2,9 +2,9 @@
 Astrophysics is a branch of science that studies the physical properties of celestial objects.
 It combines principles of physics and astronomy to explain how stars, planets, and galaxies behave.
 One of the main questions in astrophysics is how the universe began and how it will end.
-The Big Bang theory suggests that the universe started about 13.8 billion years ago.
+The Big Bang theory suggests that the universe started about 14 billion years ago.
 Astrophysicists use telescopes on Earth and in space to collect data from distant stars.
-Modern technology allows them to detect light that is invisible to the human eye, such as X-rays and radio waves.
+Modern technology allows them to detect light that is invisible to the human eye, such as Xrays and radio waves.
 Black holes are one of the most fascinating topics in astrophysics.
 They are regions in space where gravity is so strong that not even light can escape.
 Studying black holes helps scientists understand the limits of space and time.
