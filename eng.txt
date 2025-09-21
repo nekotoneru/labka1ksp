@@ -1,4 +1,4 @@
-1. ---
+1 
 astrophysics is a branch of science that studies the physical properties of celestial objects
 it combines principles of physics and astronomy to explain how stars planets and galaxies behave
 one of the main questions in astrophysics is how the universe began and how it will end
@@ -8,21 +8,21 @@ modern technology allows them to detect light that is invisible to the human eye
 black holes are one of the most fascinating topics in astrophysics
 they are regions in space where gravity is so strong that not even light can escape
 studying black holes helps scientists understand the limits of space and time
-another important subject is dark matter which makes up most of the universe’s mass
+another important subject is dark matter which makes up most of the universes mass
 although it cannot be seen directly its existence is proven by the way galaxies rotate
 dark energy is even more mysterious as it seems to push the universe to expand faster and faster
 astrophysics is not only about distant galaxies but also about our own sun
 by studying solar activity astrophysicists can predict solar storms that affect earth
-astrophysics also contributes to technology because many space discoveries inspire innovations on Earth
-for example satellite communication and GPS are possible thanks to astrophysical research
+astrophysics also contributes to technology because many space discoveries inspire innovations on earth
+for example satellite communication and gps are possible thanks to astrophysical research
 the work of astrophysicists often requires collaboration across countries and continents
 they share observatories data and theories to answer universal questions
-astrophysics inspires people because it deals with humanity’s biggest mysteries
+astrophysics inspires people because it deals with humanitys biggest mysteries
 it reminds us that earth is just one small planet in a vast and beautiful universe
 
-2. ---
-the philosophy of life in many Asian countries is deeply connected to history culture and religion
-in china confucianism has influenced people’s values for thousands of years
+2 
+the philosophy of life in many asian countries is deeply connected to history culture and religion
+in china confucianism has influenced peoples values for thousands of years
 it teaches respect for family harmony in society and the importance of education
 in india hindu philosophy emphasizes karma the idea that every action has consequences
 many people believe in reincarnation which means life is a continuous cycle
@@ -42,7 +42,7 @@ globalization has influenced younger generations but traditional values remain s
 the mix of modern life and ancient wisdom makes asian philosophy unique
 it continues to inspire people around the world to live with purpose and harmony
 
-3. ---
+3 
 friendship is one of the most valuable aspects of human life
 good friends give us emotional support and help us deal with stress
 they listen when we need to talk and offer advice when we are uncertain
@@ -64,14 +64,14 @@ even online friendships can be real and supportive if they are based on honesty
 a life without friends would feel empty and isolated
 that is why friendship is a treasure that should always be appreciated
 
-4. ---
+4 
 the idea of artificial intelligence did not start in the modern age
 even in ancient times people imagined machines that could think or act like humans
 greek myths described mechanical servants built by gods
 in the middle ages inventors created automata that could move and perform simple tasks
 these early machines were not intelligent but they inspired future scientists
 in the 17th century philosophers like descartes discussed the possibility of mechanical reasoning
-by the 19th century charles babbage designed the analytical Engine an early concept of a computer
+by the 19th century charles babbage designed the analytical engine an early concept of a computer
 ada lovelace wrote notes on how the machine could follow instructions which was a step toward programming
 the 20th century brought rapid progress in both mathematics and computing
 in 1950 alan turing published his famous test to measure machine intelligence
@@ -84,9 +84,9 @@ still important foundations such as algorithms and neural networks were created
 in the 1980s expert systems were introduced to imitate human decisionmaking
 although they were not perfect they showed how ai could be used in real industries
 the history of ai in the past proves that progress comes step by step
-without those early efforts today’s powerful ai would not exist
+without those early efforts todays powerful ai would not exist
 
-5. ---
+5 
 don quixote is one of the most famous novels in world literature
 it was written by the spanish author miguel de cervantes in the early 17th century
 the book tells the story of a man named alonso quixano
@@ -95,7 +95,7 @@ he decides to become a knight himself and takes the name don quixote
 with his old horse rocinante he sets out to fight for justice and honor
 he believes that windmills are giants and that inns are castles
 his faithful squire sancho panza follows him on his adventures
-sancho is more realistic but he admires don quixote’s courage
+sancho is more realistic but he admires don quixotes courage
 the contrast between their characters creates humor and wisdom in the story
 at first the novel seems like a comedy that makes fun of knightly tales
 however it also explores deep themes such as dreams madness and idealism
