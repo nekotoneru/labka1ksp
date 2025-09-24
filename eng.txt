@@ -1,4 +1,5 @@
 1 
+/start/
 astrophysics is a branch of science that studies the physical properties of celestial objects
 it combines principles of physics and astronomy to explain how stars planets and galaxies behave
 one of the main questions in astrophysics is how the universe began and how it will end
@@ -19,8 +20,10 @@ the work of astrophysicists often requires collaboration across countries and co
 they share observatories data and theories to answer universal questions
 astrophysics inspires people because it deals with humanitys biggest mysteries
 it reminds us that earth is just one small planet in a vast and beautiful universe
+/end/
 
 2 
+/start/
 the philosophy of life in many asian countries is deeply connected to history culture and religion
 in china confucianism has influenced peoples values for thousands of years
 it teaches respect for family harmony in society and the importance of education
@@ -41,8 +44,10 @@ this balance can be seen in festivals art and traditional practices
 globalization has influenced younger generations but traditional values remain strong
 the mix of modern life and ancient wisdom makes asian philosophy unique
 it continues to inspire people around the world to live with purpose and harmony
+/end/
 
 3 
+/start/
 friendship is one of the most valuable aspects of human life
 good friends give us emotional support and help us deal with stress
 they listen when we need to talk and offer advice when we are uncertain
@@ -63,8 +68,10 @@ technology has changed how we make and keep friends but the core values remain t
 even online friendships can be real and supportive if they are based on honesty
 a life without friends would feel empty and isolated
 that is why friendship is a treasure that should always be appreciated
+/end/
 
 4 
+/start/
 the idea of artificial intelligence did not start in the modern age
 even in ancient times people imagined machines that could think or act like humans
 greek myths described mechanical servants built by gods
@@ -85,8 +92,10 @@ in the 1980s expert systems were introduced to imitate human decisionmaking
 although they were not perfect they showed how ai could be used in real industries
 the history of ai in the past proves that progress comes step by step
 without those early efforts todays powerful ai would not exist
+/end/
 
 5 
+/start/
 don quixote is one of the most famous novels in world literature
 it was written by the spanish author miguel de cervantes in the early 17th century
 the book tells the story of a man named alonso quixano
@@ -107,3 +116,4 @@ it influenced many writers including dostoevsky flaubert and even modern authors
 readers around the world still find don quixote inspiring and thoughtprovoking
 the book reminds us that even impossible dreams can give life meaning
 that is why don quixote remains a timeless masterpiece
+/end/
